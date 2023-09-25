@@ -1,4 +1,4 @@
-# AVIONICS_SOFTWARE_DEV
+# Avionics Software
 
 Software development for Avionics Pycubed Software
 1. Getting started
