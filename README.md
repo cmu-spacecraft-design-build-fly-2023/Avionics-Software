@@ -1,4 +1,7 @@
 # AVIONICS SOFTWARE DEVELOPMENT
+## Assembled Pycubed board should look like this:
+<img src="Pycubed.JPG" width="400" height="400">
+
 ## Bootload the Pycubed board made from scratch
 1. Requirements
   - Download and install Atmel Studio 7 (not required, but recommended)
