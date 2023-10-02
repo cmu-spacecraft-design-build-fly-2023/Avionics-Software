@@ -6,8 +6,8 @@
   - Download the bootloader .bin and firmware .uf2 files for your respective board version from the PyCubed GitHub
 2. [Instructions for bootloading](https://pycubed.org/Programming-the-Bootloader-343b47d1ad6f4863b512d6464aa7b84e)
 3. Install the Pycubed library in the Pycubed board
-  - Download the [software](https://pycubed.org/pycubed-py-b80aabda74284488bfd9b8ef46a0eba2) for our version of Pycubed Board
-  - Download the [Pycubed library](https://pycubed.org/pycubed-py-b80aabda74284488bfd9b8ef46a0eba2)
+  - Download the [software](https://github.com/cmu-spacecraft-design-build-fly-2023/Avionics-Software/mainboard-v05) for our version of Pycubed Board
+  - Download the [Pycubed library](https://github.com/cmu-spacecraft-design-build-fly-2023/Avionics-Software/pycubed.py)
 ## Software development for Avionics Pycubed Software
 1. Getting started
   - [Install_Mu on your computer](https://github.com/cmu-spacecraft-design-build-fly-2023/AVIONICS_SOFTWARE_DEV/blob/main/Install_Mu.md)
